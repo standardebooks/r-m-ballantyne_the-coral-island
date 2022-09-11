@@ -9,3 +9,8 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+#chapter-29 > blockquote > ul > li {
+	list-style: none;
+	font-variant-caps: all-small-caps;
+}
