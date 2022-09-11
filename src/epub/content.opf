@@ -61,15 +61,19 @@
 		<meta property="term" refines="#subject-10">Unknown</meta>
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh85114620</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Three young members of the crew of a merchant ship sailing in the South Pacific are the sole survivers of its wreck in a storm. Swept ashore an uninhabited island, their initial effort simply to survive soon develops into a settled life in what seems to be a tropical paradise. However, their enjoyment of their island home does not dampen their desire to return to England, their homeland. As their planning and preparations to escape patiently unfold, encounters with visitors both native and European dramatically alter their idyllic existence. The dangers they confront threaten not only their hopes, but their lives—and ultimately lead to unexpected results.</p>
+			<p><i>The Coral Island</i> is the most popular and enduring of R. M. Ballantyne’s prodigious literary output. It met with acclaim on publication, and has never been out of print since. His own travels as a young man had taken him for a few years to Hudson Bay, and this experience formed the basis of his early writings—adventure stories for younger readers, boys in particular. Meeting with some success, he began to use other exotic locations for further adventure writing, giving rise to <i>The Coral Island</i>, written in the tradition of <i><a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe">Robinson Crusoe</a></i>.</p>
+			<p>Ballantyne’s work in its turn influenced others. <a href="https://standardebooks.org/ebooks/robert-louis-stevenson">Robert Louis Stevenson</a> was an admirer of Ballantyne, and he acknowledged the influence of <i>The Coral Island</i> on his own <i><a href="https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island">Treasure Island</a></i>. In a different way, William Golding’s <i>The Lord of the Flies</i> is the antitype of the “Muscular Christianity” ideal found in Ballantyne’s work, internalizing the evil which Ballantyne’s young heroes, for the most part, confronted as something outside themselves.</p>
+			<p>With its vigorous narration, attention to detail of flora and fauna, and social and ethnographic observations, the appeal of Ballantyne’s most popular work remains evident, even while its role in mid-Victorian imperialism continues to be debated and re-evaluated.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/646</dc:source>
-		<dc:source>https://archive.org/details/coralisland00ballgoog/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/coralisland00ballgoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Coral_Island</meta>
@@ -80,10 +84,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._M._Ballantyne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79118067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Ferdinand Keller</dc:contributor>
+		<meta property="file-as" refines="#artist">Keller, Ferdinand</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ferdinand_Keller_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n93055531</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
