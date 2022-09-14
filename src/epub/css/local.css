@@ -1,6 +1,18 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -8,6 +20,10 @@ footer{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+#chapter-17 > ul {
+	list-style: none;
 }
 
 #chapter-29 > blockquote > ul > li {
