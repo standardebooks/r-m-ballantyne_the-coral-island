@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/r-m-ballantyne/the-coral-island</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-09-17T22:42:56Z</dc:date>
+		<meta property="dcterms:modified">2022-09-17T22:42:56Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -66,16 +66,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Three shipwrecked youths encounter delights and dangers as they attempt to escape their uninhabited tropical island paradise.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Three young members of the crew of a merchant ship sailing in the South Pacific are the sole survivors of its wreck in a storm. Swept ashore an uninhabited island, their initial effort simply to survive soon develops into a settled life in what seems to be a tropical paradise. However, their enjoyment of their island home does not dampen their desire to return to England, their homeland. As their planning and preparations to escape patiently unfold, encounters with visitors both native and European dramatically alter their idyllic existence. The dangers they confront threaten not only their hopes, but their lives—and ultimately lead to unexpected results.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Coral Island&lt;/i&gt; is the most popular and enduring of &lt;a href="https://standardebooks.org/ebooks/r-m-ballantyne"&gt;R. M. Ballantyne’s&lt;/a&gt; prodigious literary output. It met with acclaim on publication, and has never been out of print since. His own travels as a young man had taken him for a few years to Hudson Bay, and this experience formed the basis of his early writings—adventure stories for younger readers, boys in particular. Meeting with some success, he began to use other exotic locations for further adventure writing, giving rise to &lt;i&gt;The Coral Island&lt;/i&gt;, written in the tradition of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;Robinson Crusoe&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Three young members of the crew of a merchant ship sailing in the South Pacific are the sole survivors of its wreck in a storm. Swept ashore an uninhabited island, their initial efforts to survive soon lead them to a settled life in what seems to be a tropical paradise. However, their enjoyment of their new island home doesn’t dampen their desire to return to England, their homeland. As their planning and preparations to escape patiently unfold, encounters with visitors both native and European dramatically alter their idyllic existence. The dangers they confront threaten not only their hopes, but their lives—and ultimately lead to unexpected results.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Coral Island&lt;/i&gt; is the most popular and enduring of &lt;a href="https://standardebooks.org/ebooks/r-m-ballantyne"&gt;R. M. Ballantyne’s&lt;/a&gt; prodigious literary output. It was met with acclaim on publication, and has never been out of print since. His own travels as a young man had taken him for a few years to Hudson Bay, and this experience formed the basis of his early writings—adventure stories for younger readers, boys in particular. Meeting with some success, he began to use other exotic locations for further adventure writing, giving rise to &lt;i&gt;The Coral Island&lt;/i&gt;, written in the tradition of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;Robinson Crusoe&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;Ballantyne’s work in its turn influenced others. &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt; was an admirer of Ballantyne, and he acknowledged the influence of &lt;i&gt;The Coral Island&lt;/i&gt; on his own &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island"&gt;Treasure Island&lt;/a&gt;&lt;/i&gt;. In a different way, William Golding’s &lt;i&gt;Lord of the Flies&lt;/i&gt; is the antitype of the “Muscular Christianity” ideal found in Ballantyne’s work, internalizing the evil which Ballantyne’s young heroes, for the most part, confronted as something outside themselves.&lt;/p&gt;
 			&lt;p&gt;With its vigorous narration, attention to detail of flora and fauna, and social and ethnographic observations, the appeal of Ballantyne’s most popular work remains evident, even while its role in mid-Victorian imperialism continues to be debated and re-evaluated.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/646</dc:source>
 		<dc:source>https://archive.org/details/coralisland00ballgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">100472</meta>
+		<meta property="se:reading-ease.flesch">71.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Coral_Island</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-m-ballantyne_the-coral-island</meta>
 		<dc:creator id="author">R. M. Ballantyne</dc:creator>
@@ -102,6 +102,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
