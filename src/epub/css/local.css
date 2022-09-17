@@ -18,11 +18,11 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-17 > ul{
+#chapter-17 ul{
 	list-style: none;
 }
 
-#chapter-29 > blockquote > ul > li{
+#chapter-29 li{
 	font-variant-caps: all-small-caps;
 	list-style: none;
 }
