@@ -74,7 +74,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/646</dc:source>
 		<dc:source>https://archive.org/details/coralisland00ballgoog</dc:source>
-		<meta property="se:word-count">100472</meta>
+		<meta property="se:word-count">100471</meta>
 		<meta property="se:reading-ease.flesch">71.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Coral_Island</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-m-ballantyne_the-coral-island</meta>
